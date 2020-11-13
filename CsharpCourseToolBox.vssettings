@@ -1,30 +1,20 @@
-<UserSettings><ApplicationIdentity version="16.0"/><ToolsOptions/><Category name="Environment_Group" RegisteredName="Environment_Group"><Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package"><PropertyValue name="ShowAllTabs">false</PropertyValue><PropertyValue name="Version">1</PropertyValue><PropertyValue name="DeletedTabCount">0</PropertyValue><PropertyValue name="Tab0.Name">Arrays</PropertyValue><PropertyValue name="Tab0.View">0</PropertyValue><PropertyValue name="Tab0.UseDefaultName">true</PropertyValue><PropertyValue name="Tab0.RecordType">1</PropertyValue><PropertyValue name="Tab0.Position">18</PropertyValue><PropertyValue name="Tab1.ID">{e7f851c8-6267-4794-b0fe-7bcab6dacbb4}-#1071</PropertyValue><PropertyValue name="Tab1.Name">Standard</PropertyValue><PropertyValue name="Tab1.View">0</PropertyValue><PropertyValue name="Tab1.UseDefaultName">true</PropertyValue><PropertyValue name="Tab1.RecordType">4</PropertyValue><PropertyValue name="Tab1.Position">27</PropertyValue><PropertyValue name="TabCount">2</PropertyValue><PropertyValue name="DeletedItemCount">0</PropertyValue><PropertyValue name="Item0.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item0.ID">F0957788F4A3ADC78C55B8C38CE79844</PropertyValue><PropertyValue name="Item0.Name">Text: ///***Array Access from the end****///
-            ///
-            int[] arrayI = {52,61,75,86};
-            Index myIndex = ^2;
-            Console.WriteLine(arrayI[^1]);//86
-            Console.WriteLine(arrayI[myIndex]);//75</PropertyValue><PropertyValue name="Item0.UseDefaultName">true</PropertyValue><PropertyValue name="Item0.Tab">General</PropertyValue><PropertyValue name="Item0.TabID">General</PropertyValue><PropertyValue name="Item0.OriginalTabID">General</PropertyValue><PropertyValue name="Item0.OriginalTab">General</PropertyValue><PropertyValue name="Item0.RecordType">1</PropertyValue><PropertyValue name="Item0.Data">///***Array Access from the end****///
-            ///
-            int[] arrayI = {52,61,75,86};
-            Index myIndex = ^2;
-            Console.WriteLine(arrayI[^1]);//86
-            Console.WriteLine(arrayI[myIndex]);//75</PropertyValue><PropertyValue name="Item0.Position">1</PropertyValue><PropertyValue name="Item1.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item1.ID">B701D24C906DE3ECF87CDF0BD27BD5CA</PropertyValue><PropertyValue name="Item1.Name">Array Declaration only</PropertyValue><PropertyValue name="Item1.UseDefaultName">false</PropertyValue><PropertyValue name="Item1.Tab">Arrays</PropertyValue><PropertyValue name="Item1.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item1.RecordType">1</PropertyValue><PropertyValue name="Item1.Data">int[] arrayExDOnly;</PropertyValue><PropertyValue name="Item1.Position">1</PropertyValue><PropertyValue name="Item2.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item2.ID">AB677851B56037EA2623537C4756F72A</PropertyValue><PropertyValue name="Item2.Name">Array Declaration &amp; Creation Format I</PropertyValue><PropertyValue name="Item2.UseDefaultName">false</PropertyValue><PropertyValue name="Item2.Tab">Arrays</PropertyValue><PropertyValue name="Item2.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item2.RecordType">1</PropertyValue><PropertyValue name="Item2.Data">int[] exampleArrayDeclaration;
-            exampleArrayDeclaration = new int[5];</PropertyValue><PropertyValue name="Item2.Position">2</PropertyValue><PropertyValue name="Item3.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item3.ID">F63B81E5052F1DCBC4E013834FC77F94</PropertyValue><PropertyValue name="Item3.Name">Array Declaration &amp; Creation Format II</PropertyValue><PropertyValue name="Item3.UseDefaultName">false</PropertyValue><PropertyValue name="Item3.Tab">Arrays</PropertyValue><PropertyValue name="Item3.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item3.RecordType">1</PropertyValue><PropertyValue name="Item3.Data">int[] exampleArrayDANDC = new int[5];</PropertyValue><PropertyValue name="Item3.Position">3</PropertyValue><PropertyValue name="Item4.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item4.ID">40FF52C11864A687AE7A6B01C31D4F60</PropertyValue><PropertyValue name="Item4.Name">Array Declaration &amp; Creation &amp; Initialization Format I</PropertyValue><PropertyValue name="Item4.UseDefaultName">false</PropertyValue><PropertyValue name="Item4.Tab">Arrays</PropertyValue><PropertyValue name="Item4.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item4.RecordType">1</PropertyValue><PropertyValue name="Item4.Data">int[] arrayExDANDCANDI = new int[2] {200,100};</PropertyValue><PropertyValue name="Item4.Position">4</PropertyValue><PropertyValue name="Item5.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item5.ID">98A4FDF5C63F5C6176EB31FE533C22C1</PropertyValue><PropertyValue name="Item5.Name">Array Declaration &amp; Creation &amp; Initialization Format II</PropertyValue><PropertyValue name="Item5.UseDefaultName">false</PropertyValue><PropertyValue name="Item5.Tab">Arrays</PropertyValue><PropertyValue name="Item5.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item5.RecordType">1</PropertyValue><PropertyValue name="Item5.Data">int[] arrayExDANDCANDI = new int[] {200,100};</PropertyValue><PropertyValue name="Item5.Position">5</PropertyValue><PropertyValue name="Item6.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item6.ID">D381404F8B5AE8B1B7EF3097056EAED2</PropertyValue><PropertyValue name="Item6.Name">Array Declaration &amp; Creation &amp; Initialization Format III</PropertyValue><PropertyValue name="Item6.UseDefaultName">false</PropertyValue><PropertyValue name="Item6.Tab">Arrays</PropertyValue><PropertyValue name="Item6.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item6.RecordType">1</PropertyValue><PropertyValue name="Item6.Data">int[] arrayExDANDCANDI = {200,100};</PropertyValue><PropertyValue name="Item6.Position">6</PropertyValue><PropertyValue name="Item7.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item7.ID">EB13C083E64493580698578BE492BE04</PropertyValue><PropertyValue name="Item7.Name">Array access by element index</PropertyValue><PropertyValue name="Item7.UseDefaultName">false</PropertyValue><PropertyValue name="Item7.Tab">Arrays</PropertyValue><PropertyValue name="Item7.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item7.RecordType">1</PropertyValue><PropertyValue name="Item7.Data">int[] arrayExample = {1,200,300,4};
+<UserSettings><ApplicationIdentity version="16.0"/><ToolsOptions/><Category name="Environment_Group" RegisteredName="Environment_Group"><Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package"><PropertyValue name="ShowAllTabs">false</PropertyValue><PropertyValue name="Version">1</PropertyValue><PropertyValue name="DeletedTabCount">0</PropertyValue><PropertyValue name="Tab0.Name">Arrays</PropertyValue><PropertyValue name="Tab0.View">0</PropertyValue><PropertyValue name="Tab0.UseDefaultName">true</PropertyValue><PropertyValue name="Tab0.RecordType">1</PropertyValue><PropertyValue name="Tab0.Position">18</PropertyValue><PropertyValue name="Tab1.ID">{e7f851c8-6267-4794-b0fe-7bcab6dacbb4}-#1071</PropertyValue><PropertyValue name="Tab1.Name">Standard</PropertyValue><PropertyValue name="Tab1.View">0</PropertyValue><PropertyValue name="Tab1.UseDefaultName">true</PropertyValue><PropertyValue name="Tab1.RecordType">4</PropertyValue><PropertyValue name="Tab1.Position">27</PropertyValue><PropertyValue name="TabCount">2</PropertyValue><PropertyValue name="DeletedItemCount">0</PropertyValue><PropertyValue name="Item0.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item0.ID">B701D24C906DE3ECF87CDF0BD27BD5CA</PropertyValue><PropertyValue name="Item0.Name">Array Declaration only</PropertyValue><PropertyValue name="Item0.UseDefaultName">true</PropertyValue><PropertyValue name="Item0.Tab">Arrays</PropertyValue><PropertyValue name="Item0.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item0.RecordType">1</PropertyValue><PropertyValue name="Item0.Data">int[] arrayExDOnly;</PropertyValue><PropertyValue name="Item0.Position">1</PropertyValue><PropertyValue name="Item1.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item1.ID">E7E08132FA734C0FD9B344052CEFD859</PropertyValue><PropertyValue name="Item1.Name">Array Declaration &amp; Creation Format I</PropertyValue><PropertyValue name="Item1.UseDefaultName">true</PropertyValue><PropertyValue name="Item1.Tab">Arrays</PropertyValue><PropertyValue name="Item1.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item1.RecordType">1</PropertyValue><PropertyValue name="Item1.Data">int[] exampleArrayDeclaration;
+            exampleArrayDeclaration = new int[5];</PropertyValue><PropertyValue name="Item1.Position">2</PropertyValue><PropertyValue name="Item2.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item2.ID">F63B81E5052F1DCBC4E013834FC77F94</PropertyValue><PropertyValue name="Item2.Name">Array Declaration &amp; Creation Format II</PropertyValue><PropertyValue name="Item2.UseDefaultName">true</PropertyValue><PropertyValue name="Item2.Tab">Arrays</PropertyValue><PropertyValue name="Item2.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item2.RecordType">1</PropertyValue><PropertyValue name="Item2.Data">int[] exampleArrayDANDC = new int[5];</PropertyValue><PropertyValue name="Item2.Position">3</PropertyValue><PropertyValue name="Item3.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item3.ID">40FF52C11864A687AE7A6B01C31D4F60</PropertyValue><PropertyValue name="Item3.Name">Array Declaration &amp; Creation &amp; Initialization Format I</PropertyValue><PropertyValue name="Item3.UseDefaultName">true</PropertyValue><PropertyValue name="Item3.Tab">Arrays</PropertyValue><PropertyValue name="Item3.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item3.RecordType">1</PropertyValue><PropertyValue name="Item3.Data">int[] arrayExDANDCANDI = new int[2] {200,100};</PropertyValue><PropertyValue name="Item3.Position">4</PropertyValue><PropertyValue name="Item4.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item4.ID">98A4FDF5C63F5C6176EB31FE533C22C1</PropertyValue><PropertyValue name="Item4.Name">Array Declaration &amp; Creation &amp; Initialization Format II</PropertyValue><PropertyValue name="Item4.UseDefaultName">true</PropertyValue><PropertyValue name="Item4.Tab">Arrays</PropertyValue><PropertyValue name="Item4.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item4.RecordType">1</PropertyValue><PropertyValue name="Item4.Data">int[] arrayExDANDCANDI = new int[] {200,100};</PropertyValue><PropertyValue name="Item4.Position">5</PropertyValue><PropertyValue name="Item5.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item5.ID">D381404F8B5AE8B1B7EF3097056EAED2</PropertyValue><PropertyValue name="Item5.Name">Array Declaration &amp; Creation &amp; Initialization Format III</PropertyValue><PropertyValue name="Item5.UseDefaultName">true</PropertyValue><PropertyValue name="Item5.Tab">Arrays</PropertyValue><PropertyValue name="Item5.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item5.RecordType">1</PropertyValue><PropertyValue name="Item5.Data">int[] arrayExDANDCANDI = {200,100};</PropertyValue><PropertyValue name="Item5.Position">6</PropertyValue><PropertyValue name="Item6.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item6.ID">FE08CB7DA2A11C31B319AD5B62CBDB4D</PropertyValue><PropertyValue name="Item6.Name">Array access by element index</PropertyValue><PropertyValue name="Item6.UseDefaultName">true</PropertyValue><PropertyValue name="Item6.Tab">Arrays</PropertyValue><PropertyValue name="Item6.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item6.RecordType">1</PropertyValue><PropertyValue name="Item6.Data">int[] arrayExample = {1,200,300,4};
             arrayExample[0] = 100;
             arrayExample[3] = 400;
-            Console.WriteLine(arrayExample[0] + arrayExample[1]);</PropertyValue><PropertyValue name="Item7.Position">7</PropertyValue><PropertyValue name="Item8.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item8.ID">226965F86578EEC2C77459218A91A3CC</PropertyValue><PropertyValue name="Item8.Name">Array length by property</PropertyValue><PropertyValue name="Item8.UseDefaultName">false</PropertyValue><PropertyValue name="Item8.Tab">Arrays</PropertyValue><PropertyValue name="Item8.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item8.RecordType">1</PropertyValue><PropertyValue name="Item8.Data">int[] x = {500,200,100};
+            Console.WriteLine(arrayExample[0] + arrayExample[1]);</PropertyValue><PropertyValue name="Item6.Position">7</PropertyValue><PropertyValue name="Item7.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item7.ID">580B35FF53D6E00C4DB5F32242775055</PropertyValue><PropertyValue name="Item7.Name">Array length by property</PropertyValue><PropertyValue name="Item7.UseDefaultName">true</PropertyValue><PropertyValue name="Item7.Tab">Arrays</PropertyValue><PropertyValue name="Item7.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item7.RecordType">1</PropertyValue><PropertyValue name="Item7.Data">int[] x = {500,200,100};
             //string concatenation
             Console.WriteLine("The length of the array is= " + x.Length);
             //string format
             Console.WriteLine("The length of the array is={0}",x.Length);
             //string interpolation
-            Console.WriteLine($"The length of the array is={x.Length}");</PropertyValue><PropertyValue name="Item8.Position">8</PropertyValue><PropertyValue name="Item9.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item9.ID">E8EC52C49ED21943355F3AC1EB574412</PropertyValue><PropertyValue name="Item9.Name">Array length by method</PropertyValue><PropertyValue name="Item9.UseDefaultName">false</PropertyValue><PropertyValue name="Item9.Tab">Arrays</PropertyValue><PropertyValue name="Item9.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item9.RecordType">1</PropertyValue><PropertyValue name="Item9.Data">int[] x = {500,200,100};
+            Console.WriteLine($"The length of the array is={x.Length}");</PropertyValue><PropertyValue name="Item7.Position">8</PropertyValue><PropertyValue name="Item8.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item8.ID">F9BB33362969A752A59FBA1AB915D675</PropertyValue><PropertyValue name="Item8.Name">Array length by method</PropertyValue><PropertyValue name="Item8.UseDefaultName">true</PropertyValue><PropertyValue name="Item8.Tab">Arrays</PropertyValue><PropertyValue name="Item8.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item8.RecordType">1</PropertyValue><PropertyValue name="Item8.Data">int[] x = {500,200,100};
             //string concatenation
             Console.WriteLine("The length of the array is= " + x.GetLength(0));
             //string format
             Console.WriteLine("The length of the array is={0}",x.GetLength(0));
             //string interpolation
-            Console.WriteLine($"The length of the array is={x.GetLength(0)}");</PropertyValue><PropertyValue name="Item9.Position">9</PropertyValue><PropertyValue name="Item10.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item10.ID">36320FD718205792C7AED6675B8A2813</PropertyValue><PropertyValue name="Item10.Name">Initial value for every element in an array</PropertyValue><PropertyValue name="Item10.UseDefaultName">false</PropertyValue><PropertyValue name="Item10.Tab">Arrays</PropertyValue><PropertyValue name="Item10.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item10.RecordType">1</PropertyValue><PropertyValue name="Item10.Data">///slide 15
+            Console.WriteLine($"The length of the array is={x.GetLength(0)}");</PropertyValue><PropertyValue name="Item8.Position">9</PropertyValue><PropertyValue name="Item9.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item9.ID">27EBBF2E3DFE434175237E64FE4D3018</PropertyValue><PropertyValue name="Item9.Name">Initial value for every element in an array</PropertyValue><PropertyValue name="Item9.UseDefaultName">true</PropertyValue><PropertyValue name="Item9.Tab">Arrays</PropertyValue><PropertyValue name="Item9.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item9.RecordType">1</PropertyValue><PropertyValue name="Item9.Data">///slide 15
             //initial value for every element
             int[] exampleArrayIV = new int[6];
             for (int i = 0; i &lt; exampleArrayIV.Length; i++)
@@ -32,18 +22,130 @@
                 exampleArrayIV[i] = 100;
             }
             //if we want the default value we can use:
-            exampleArrayIV.Initialize();</PropertyValue><PropertyValue name="Item10.Position">10</PropertyValue><PropertyValue name="Item11.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item11.ID">62021D8D30AFEC649955AE6A4A3E254C</PropertyValue><PropertyValue name="Item11.Name">Show all values in each element in an array</PropertyValue><PropertyValue name="Item11.UseDefaultName">false</PropertyValue><PropertyValue name="Item11.Tab">Arrays</PropertyValue><PropertyValue name="Item11.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item11.RecordType">1</PropertyValue><PropertyValue name="Item11.Data">//slide15
+            exampleArrayIV.Initialize();</PropertyValue><PropertyValue name="Item9.Position">10</PropertyValue><PropertyValue name="Item10.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item10.ID">92014EA48708BD510CFF05558C03AD28</PropertyValue><PropertyValue name="Item10.Name">Show all values in each element in an array</PropertyValue><PropertyValue name="Item10.UseDefaultName">true</PropertyValue><PropertyValue name="Item10.Tab">Arrays</PropertyValue><PropertyValue name="Item10.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item10.RecordType">1</PropertyValue><PropertyValue name="Item10.Data">//slide15
             //show all values in each element
             int[] exampleArrayIV = new int[6];
             for (int i = 0; i &lt; exampleArrayIV.Length; i++)
             {
                 Console.WriteLine("ExampleElement{0} is {1}",i+1,exampleArrayIV[i]);
-            }</PropertyValue><PropertyValue name="Item11.Position">11</PropertyValue><PropertyValue name="Item12.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item12.ID">F0957788F4A3ADC78C55B8C38CE79844</PropertyValue><PropertyValue name="Item12.Name">Array access from the end using Index</PropertyValue><PropertyValue name="Item12.UseDefaultName">false</PropertyValue><PropertyValue name="Item12.Tab">Arrays</PropertyValue><PropertyValue name="Item12.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item12.RecordType">1</PropertyValue><PropertyValue name="Item12.Data">///***Array Access from the end****///
+            }</PropertyValue><PropertyValue name="Item10.Position">11</PropertyValue><PropertyValue name="Item11.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item11.ID">DF4502B97FD3AB9A48CBA504988DEB6D</PropertyValue><PropertyValue name="Item11.Name">Array access from the end using Index</PropertyValue><PropertyValue name="Item11.UseDefaultName">true</PropertyValue><PropertyValue name="Item11.Tab">Arrays</PropertyValue><PropertyValue name="Item11.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item11.RecordType">1</PropertyValue><PropertyValue name="Item11.Data">///***Array Access from the end****///
             ///
             int[] arrayI = {52,61,75,86};
             Index myIndex = ^2;
             Console.WriteLine(arrayI[^1]);//86
-            Console.WriteLine(arrayI[myIndex]);//75</PropertyValue><PropertyValue name="Item12.Position">12</PropertyValue><PropertyValue name="Item13.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item13.ID">8DBC86956103CFA718B0673065FAA3FD</PropertyValue><PropertyValue name="Item13.Name">Array access using Range</PropertyValue><PropertyValue name="Item13.UseDefaultName">false</PropertyValue><PropertyValue name="Item13.Tab">Arrays</PropertyValue><PropertyValue name="Item13.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item13.RecordType">1</PropertyValue><PropertyValue name="Item13.Data">///Array Access using range
+            Console.WriteLine(arrayI[myIndex]);//75</PropertyValue><PropertyValue name="Item11.Position">12</PropertyValue><PropertyValue name="Item12.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item12.ID">5ED7E9D4C97795B6D6B351D4FC024687</PropertyValue><PropertyValue name="Item12.Name">Array access using Range</PropertyValue><PropertyValue name="Item12.UseDefaultName">true</PropertyValue><PropertyValue name="Item12.Tab">Arrays</PropertyValue><PropertyValue name="Item12.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item12.RecordType">1</PropertyValue><PropertyValue name="Item12.Data">///Array Access using range
             int[] arrayE = {52,61,75,86};
             Range r = ..3;
-            Console.WriteLine(arrayE[r][2]);//75</PropertyValue><PropertyValue name="Item13.Position">13</PropertyValue><PropertyValue name="ItemCount">14</PropertyValue></Category></Category></UserSettings>
+            Console.WriteLine(arrayE[r][2]);//75</PropertyValue><PropertyValue name="Item12.Position">13</PropertyValue><PropertyValue name="Item13.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item13.ID">BCEE800C738A8D7FFB81978BB937E8CD</PropertyValue><PropertyValue name="Item13.Name">Example 1 - MonthDays</PropertyValue><PropertyValue name="Item13.UseDefaultName">false</PropertyValue><PropertyValue name="Item13.Tab">Arrays</PropertyValue><PropertyValue name="Item13.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item13.RecordType">1</PropertyValue><PropertyValue name="Item13.Data">int[] monthday = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+            Console.WriteLine("Enter month number");
+            int month = int.Parse(Console.ReadLine());
+        Console.WriteLine("Month{0} has {1} days.",month,monthday[month-1]);</PropertyValue><PropertyValue name="Item13.Position">14</PropertyValue><PropertyValue name="Item14.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item14.ID">931AED7616C7470C3B1B28A1FD436CCD</PropertyValue><PropertyValue name="Item14.Name">Example 2 - Summation</PropertyValue><PropertyValue name="Item14.UseDefaultName">false</PropertyValue><PropertyValue name="Item14.Tab">Arrays</PropertyValue><PropertyValue name="Item14.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item14.RecordType">1</PropertyValue><PropertyValue name="Item14.Data">Console.Write("Input n: ");
+            int n = int.Parse(Console.ReadLine());
+            int[] num = new int[n];
+            for (int i = 0; i &lt; num.Length; i++)
+            {
+                num[i] = int.Parse(Console.ReadLine());
+            }
+            int sum = 0;
+            for (int i = 0; i &lt; num.Length; i++)
+            {
+                sum = sum + num[i];
+            }
+            Console.WriteLine($"Sum = {sum}");</PropertyValue><PropertyValue name="Item14.Position">15</PropertyValue><PropertyValue name="Item15.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item15.ID">48DDCE342F7BA2246F65D11A5BC93A92</PropertyValue><PropertyValue name="Item15.Name">Example 3 - String</PropertyValue><PropertyValue name="Item15.UseDefaultName">false</PropertyValue><PropertyValue name="Item15.Tab">Arrays</PropertyValue><PropertyValue name="Item15.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item15.RecordType">1</PropertyValue><PropertyValue name="Item15.Data">string name = "Yemen";
+            char[] nameCharacters = new char[] {'Y','e','m','e','n'};
+            Console.WriteLine(name[0]);
+            Console.WriteLine(name[4-3]);
+            //name[4] = 's';
+            name.Replace('n','s');
+            //nameCharacters.Replace()?
+            Console.WriteLine(name);
+            Console.WriteLine(nameCharacters);</PropertyValue><PropertyValue name="Item15.Position">16</PropertyValue><PropertyValue name="Item16.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item16.ID">AB877942D29E6B162E7A2489F7177F19</PropertyValue><PropertyValue name="Item16.Name">Example 4 - String with Index&amp;</PropertyValue><PropertyValue name="Item16.UseDefaultName">false</PropertyValue><PropertyValue name="Item16.Tab">Arrays</PropertyValue><PropertyValue name="Item16.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item16.RecordType">1</PropertyValue><PropertyValue name="Item16.Data">//String is array of chars
+            ///***********************
+            string language = "C# is sometimes written as csharp";
+            Console.WriteLine(language[1]);
+            Console.WriteLine("csharp" + language[2..^0]);//2..
+            Console.WriteLine(language[^1]);
+            Console.WriteLine(language[^6..^0]);//^6..
+            Console.WriteLine(language[4 - 3]);
+            
+            //Console.WriteLine(language[^4 - ^3]);
+            int x = 0;
+            Index myIndex = 5+x;
+            myIndex = x;
+            Index myIndex2 = 5;
+            //language[0] = 'y'; //READONLY
+            //language.method</PropertyValue><PropertyValue name="Item16.Position">17</PropertyValue><PropertyValue name="Item17.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item17.ID">0D99E02AD80BD99DCE2F2F13BC3C717D</PropertyValue><PropertyValue name="Item17.Name">Example 5 - Counting letter 'a'</PropertyValue><PropertyValue name="Item17.UseDefaultName">false</PropertyValue><PropertyValue name="Item17.Tab">Arrays</PropertyValue><PropertyValue name="Item17.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item17.RecordType">1</PropertyValue><PropertyValue name="Item17.Data">string words = "I am a man";
+            int count = 0;
+            int i = 0;
+            while (i &lt; words.Length)
+            {
+                if (words[i] == 'a')
+                    count++;
+                i++;
+            }
+            Console.WriteLine($"Number of letter \'a\' = {count}");
+</PropertyValue><PropertyValue name="Item17.Position">18</PropertyValue><PropertyValue name="Item18.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item18.ID">C283A562A4C21274302318DD997F99C9</PropertyValue><PropertyValue name="Item18.Name">Example 6 - Counting vowels</PropertyValue><PropertyValue name="Item18.UseDefaultName">false</PropertyValue><PropertyValue name="Item18.Tab">Arrays</PropertyValue><PropertyValue name="Item18.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item18.RecordType">1</PropertyValue><PropertyValue name="Item18.Data">//Counting number of vowels
+            string sentence = "I am a Yemeni";//5
+            Console.WriteLine("Enter the sentence= ");
+            sentence = Console.ReadLine();
+            char[] vowels = { 'a', 'o', 'u', 'i', 'e' };
+            int count = 0;
+            int ii = 0;
+            int j = 0;
+            while (ii &lt; sentence.Length)
+            {
+                while (j &lt; vowels.Length)
+                {
+                    if (sentence[ii] == vowels[j])
+                        count++;
+                    j++;
+                }
+                j = 0;
+                ii++;
+            }
+            Console.WriteLine($"Number of vowels ={count}");</PropertyValue><PropertyValue name="Item18.Position">19</PropertyValue><PropertyValue name="Item19.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item19.ID">00E6B0CB6DBDFE6930C5188DEE924A69</PropertyValue><PropertyValue name="Item19.Name">Example 7 - Counting number of each letter</PropertyValue><PropertyValue name="Item19.UseDefaultName">false</PropertyValue><PropertyValue name="Item19.Tab">Arrays</PropertyValue><PropertyValue name="Item19.OriginalTab">Arrays</PropertyValue><PropertyValue name="Item19.RecordType">1</PropertyValue><PropertyValue name="Item19.Data">string words = "I am a man";
+            int[] countLetters = new int[26];
+            int value, i = 0;
+            words = words.ToUpper();
+            while (i &lt; words.Length)
+            {
+                Console.WriteLine("The letter is= " + words[i]);
+                value = words[i] - 'A';
+                Console.WriteLine($"We subtracted {(int)'A'} from {(int)words[i]} and the result is={value}");
+                if (value &lt; 26 &amp;&amp; value &gt;= 0)
+                    countLetters[value]++;
+                i++;
+            }
+            for (int j = 0; j &lt; 26; j++)
+            {
+                if (countLetters[j] != 0)
+                    Console.WriteLine("{0}={1}", Convert.ToChar(j + 65), countLetters[j]);
+            }</PropertyValue><PropertyValue name="Item19.Position">20</PropertyValue><PropertyValue name="Item20.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item20.ID">412FA2FDB18C768B28E1DB4BC1D21695</PropertyValue><PropertyValue name="Item20.Name">Example 8 - selt-test</PropertyValue><PropertyValue name="Item20.UseDefaultName">false</PropertyValue><PropertyValue name="Item20.Tab">Arrays</PropertyValue><PropertyValue name="Item20.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item20.RecordType">1</PropertyValue><PropertyValue name="Item20.Data">int[] test = new int[5];
+            for (int i = 0; i &lt; test.Length; i++)
+            {
+                test[i] = int.Parse(Console.ReadLine());
+            }
+            int sum = 0;
+            for (int i = 0; i &lt; test.Length; i++)
+            {
+                sum += test[i] * test[i];
+            }
+            Console.WriteLine(sum);</PropertyValue><PropertyValue name="Item20.Position">21</PropertyValue><PropertyValue name="Item21.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item21.ID">2C4DC88FE3272FDA0496EE981D07B353</PropertyValue><PropertyValue name="Item21.Name">Foreach example1 for</PropertyValue><PropertyValue name="Item21.UseDefaultName">false</PropertyValue><PropertyValue name="Item21.Tab">Arrays</PropertyValue><PropertyValue name="Item21.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item21.RecordType">1</PropertyValue><PropertyValue name="Item21.Data">            string s = Console.ReadLine();
+            int count = 0;
+            for (int i = 0; i &lt; s.Length; i++)
+            {
+                if (s[i] == 'A')
+                    count++;
+            }</PropertyValue><PropertyValue name="Item21.Position">22</PropertyValue><PropertyValue name="Item22.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item22.ID">54CF17FA870BF9BA4666A149A934D76D</PropertyValue><PropertyValue name="Item22.Name">Foreach example1 foreach</PropertyValue><PropertyValue name="Item22.UseDefaultName">false</PropertyValue><PropertyValue name="Item22.Tab">Arrays</PropertyValue><PropertyValue name="Item22.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item22.RecordType">1</PropertyValue><PropertyValue name="Item22.Data">           string s = Console.ReadLine();
+            int count = 0;
+            foreach (char c in s)
+            {
+                if (c == 'A')
+                    count++;
+            }
+</PropertyValue><PropertyValue name="Item22.Position">23</PropertyValue><PropertyValue name="Item23.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item23.ID">CC98363146BAD50E0C9853441A6548CD</PropertyValue><PropertyValue name="Item23.Name">Foreach array%</PropertyValue><PropertyValue name="Item23.UseDefaultName">false</PropertyValue><PropertyValue name="Item23.Tab">Arrays</PropertyValue><PropertyValue name="Item23.OriginalTab">MonthDay</PropertyValue><PropertyValue name="Item23.RecordType">1</PropertyValue><PropertyValue name="Item23.Data">int[] score = new int[5] {4,9,0,8,7};
+            int count = 0;
+            foreach (int x in score) {
+                if (x % 2 == 0)
+                    count++;
+            }</PropertyValue><PropertyValue name="Item23.Position">24</PropertyValue><PropertyValue name="ItemCount">24</PropertyValue></Category></Category></UserSettings>
